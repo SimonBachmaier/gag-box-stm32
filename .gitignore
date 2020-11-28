@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Build or backup files
+*.c.bak
+SrcBackup/
+Debug/
+Backup/
